@@ -19,7 +19,7 @@ This image is not an official SAP product. All intellectual property, trademarks
 To pull this image from the GitHub Container Registry:
 
 ```bash
-docker pull ghcr.io/likweitan/abap-cloud-developer-trial:latest
+docker pull ghcr.io/likweitan/abap-cloud-developer-trial:2023
 ```
 
 To run the container:
